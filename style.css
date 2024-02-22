@@ -8,3 +8,7 @@ body {
 .navcolor {
  color: midnightblue;
 }
+
+.vpad {
+  padding-top: 2em;
+}
