@@ -3,12 +3,21 @@ body {
   background-color: azure;
 }
 
+.bpad {
+  padding-bottom: 1em;
+}
+
 
 
 .navcolor {
  color: midnightblue;
 }
 
-.vpad {
-  padding-top: 2em;
+.textcolor {
+  color: antiquewhite;
 }
+
+.vpad {
+  padding-top: 1em;
+}
+
