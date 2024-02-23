@@ -13,8 +13,13 @@ body {
  color: midnightblue;
 }
 
+.square {
+    width: 300px;
+    height: 300px;
+}
+
 .textcolor {
-  color: antiquewhite;
+  color:white;
 }
 
 .vpad {
