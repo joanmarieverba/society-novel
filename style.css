@@ -7,7 +7,9 @@ body {
   padding-bottom: 1em;
 }
 
-
+.display-font{
+  font-family: "Noto Sans";
+}
 
 .navcolor {
  color: midnightblue;
