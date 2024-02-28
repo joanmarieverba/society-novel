@@ -7,6 +7,15 @@ body {
   padding-bottom: 1em;
 }
 
+
+.center {
+  margin: auto;
+  width:50%;
+}
+
+
+
+
 .display-font{
   font-family: "Noto Sans";
 }
@@ -16,7 +25,7 @@ body {
   font-family:'Times New Roman', Times, serif;
   font-size: 2rem;
   font-weight: 300;
-  text-align: center;
+  /* text-align: center; */
 }
 
 
