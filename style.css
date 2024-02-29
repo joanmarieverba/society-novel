@@ -81,24 +81,13 @@ ul {
 }
 
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 1200px) {
 
-  .lead2 {
-      color: black;
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 1rem;
-      font-weight: 300;
-      /* text-align: center; */
-    }
-
-}
-
-@media screen and (max-width: 768px) {
-
+/* @media screen and (max-width: 980px) { */
 
   .center {
       margin: auto;
-      width: 25vw;
+      width: 30vw;
     }
 
 .lead2 {
@@ -108,5 +97,10 @@ ul {
     font-weight: 300;
     /* text-align: center; */
   }
+
+    .square {
+      width: 250px;
+      height: 250px;
+    }
 
 }
