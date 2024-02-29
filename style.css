@@ -29,7 +29,7 @@ body {
 /* width is the width of the text and auto splits the rest of the screen in half on either side */
 .center {
   margin: auto;
-  width: 40%;
+  width: 15vw;
 }
 
 .display-font{
