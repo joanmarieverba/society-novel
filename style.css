@@ -82,21 +82,6 @@ ul {
 
 @media screen and (max-width: 1200px) {
 
-/* @media screen and (max-width: 980px) { */
-
-  .center {
-      margin: auto;
-      width: 30vw;
-    }
-
-.lead2 {
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1rem;
-    font-weight: 300;
-    /* text-align: center; */
-  }
-
     .square {
       width: 250px;
       height: 250px;
