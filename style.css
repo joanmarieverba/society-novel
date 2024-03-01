@@ -27,7 +27,6 @@ body {
   margin-right: auto;
 }
 
-
 .display-font{
   font-family: "Noto Sans";
 }
@@ -37,12 +36,10 @@ div.item {
   display: inline-block;
   text-align: center;
   width: 13vw;
-  margin-left: 5vw;
-  margin-right: 5vw;
+  margin-left: 22px;
+  margin-right: 22px;
   position: relative;
 }
-
-
 
 .lead2 {
   color: black;
