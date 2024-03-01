@@ -46,6 +46,12 @@ div.item {
   position: relative;
 }
 
+.element {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .lead2 {
   color: black;
   font-family:'Times New Roman', Times, serif;
