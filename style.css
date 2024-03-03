@@ -33,11 +33,6 @@ blockquote:after {
   content: "\201D";
 }
 
-blockquote source {
-  padding: 0 2em 0 0;
-  text-align: right;
-}
-
 blockquote cite:before {
   content: "\2013";
 }
