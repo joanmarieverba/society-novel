@@ -78,6 +78,11 @@ div.item {
   position: relative;
 }
 
+.jumbotron {
+  background-image: url("./images/campus.jpg");
+  background-size: cover;
+}
+
 .lead2 {
   color: black;
   font-family:'Times New Roman', Times, serif;
