@@ -81,6 +81,7 @@ div.item {
 .jumbotron {
   background-image: url("./images/campus.jpg");
   background-size: cover;
+  min-height: 750px;
 }
 
 .lead2 {
