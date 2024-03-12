@@ -80,7 +80,7 @@ div.item {
 
 .jumbotron {
   background-image: url("./images/campus.jpg");
-  background-size: cover;
+  background-size: 100%;
   min-height: 750px;
 }
 
