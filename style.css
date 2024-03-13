@@ -78,6 +78,10 @@ div.item {
   position: relative;
 }
 
+.indent {
+  text-indent: 2em;
+}
+
 .jumbotron {
   background-image: url("./images/campus.jpg");
   background-size: 100%;
