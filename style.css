@@ -91,9 +91,9 @@ div.item {
 
 .lead2 {
   color: black;
-  font-family:'Times New Roman', Times, serif;
-  font-size: 3rem;
-  font-weight: 300;
+  font-family:'Cormorant Garamond', serif;
+  font-size: 2.5rem;
+  /* font-weight: 100; */
   /* text-align: center; */
 }
 
