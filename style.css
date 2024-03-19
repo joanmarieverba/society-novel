@@ -89,6 +89,14 @@ div.item {
   height: 60vw;
 }
 
+.lead {
+  color: black;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+}
+
+
+
 .lead2 {
   color: black;
   font-family:'Cormorant Garamond', serif;
