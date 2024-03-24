@@ -119,6 +119,12 @@ div.item {
     height: 300px;
 }
 
+
+.textbackground {
+  background-color: azure;
+  border-radius: 10px;
+}
+
 .textcolor {
   color:white;
 }
