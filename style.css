@@ -89,6 +89,14 @@ div.item {
   height: 60vw;
 }
 
+.jumbotron2 {
+  background-image: url("./images/campus.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 20vw;
+}
+
+
 .lead {
   color: black;
   font-family: 'Cormorant Garamond', serif;
