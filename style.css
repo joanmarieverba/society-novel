@@ -35,11 +35,6 @@ blockquote:after {
 
 
 
-
-
-
-
-
 .bpad {
   padding-bottom: 1em;
 }
@@ -64,6 +59,11 @@ blockquote:after {
   margin-right: auto;
 }
 
+.cover-insert {
+  width: 150px; 
+  height: 225px;
+}
+
 .display-font{
   font-family: "Noto Sans";
 }
@@ -81,6 +81,8 @@ div.item {
 .indent {
   text-indent: 2em;
 }
+
+
 
 .jumbotron {
   background-image: url("./images/campus.jpg");
@@ -153,5 +155,15 @@ ul {
       width: 250px;
       height: 250px;
     }
+
+}
+
+@media screen and (max-width: 800px) {
+
+  .cover-insert {
+    width: 0px;
+    height: 0px;
+  }
+
 
 }
