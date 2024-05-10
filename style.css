@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color:goldenrod;
+  color: midnightblue;
 }
 
 blockquote {
@@ -45,9 +45,9 @@ blockquote:after {
 
 
 .bttn {
-  background-color: black;
-  border: none;
-  color: white;
+  background-color:whitesmoke;
+  border: 2px solid black;
+  color:purple;
   padding: 7px 24px;
   text-align: center;
   text-decoration: none;
